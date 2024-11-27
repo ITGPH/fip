@@ -1,0 +1,7 @@
+
+
+.grid-con1{
+    display: grid;
+    max-width: 412px;
+    grid-template-columns: 15% 50% 15% 15%
+}

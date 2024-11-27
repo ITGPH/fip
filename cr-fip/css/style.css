@@ -1,0 +1,61 @@
+.hidden {
+    display: none;}
+    header {
+        background-color: #d10606 ;
+        position: fixed;
+        width: 412px;
+        height: 100px;
+        top: 0;}
+    
+    
+    #main-logo {
+        width: 60px;
+        height: 60px;
+        padding: 20px 0px 0px 10px;
+      
+    }
+    
+
+
+#hamburger{
+    padding: 30px 20px 20px 20px;
+    width: 40px; 
+} 
+#profile{
+    width: 50px;
+    padding: 25px 8px 8px 8px;
+  
+    
+}
+
+    header nav li {
+    display: inline;
+        
+    }
+    
+    header nav ul {
+        list-style-type: none;
+        margin-top: 45px;
+    }
+    
+   h3 {
+        font-family: "Italianno", cursive;
+        font-weight: 400;
+        font-style: normal;
+        font-weight: bold ;
+        font-size: 40px;
+        padding: 0px;
+      }
+      
+    h4{
+font-family: "Prata", serif;
+font-weight: 400;
+font-style: normal;
+font-weight: bolder;
+          }
+          
+    p{
+font-family: 'Times New Roman', Times, serif;
+font-weight: 400;
+font-style: normal;
+    }
